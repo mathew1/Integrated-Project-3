@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChangeScene">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Project Scripts\ChangeScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterScript">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAKAAIAQAAAAAAAAAAAAAAEAJIQAgAAAAAAA=</HashCode>
+      <FileName>Assets\Project Scripts\CharacterScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterUserControl">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKAAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Project Scripts\CharacterUserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Death">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Project Scripts\Death.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NextLevel">
+    <Position X="4.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Project Scripts\NextLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallaxing">
+    <Position X="0.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAQAAAAAAAAAAAAAACAQAEAAAAEA=</HashCode>
+      <FileName>Assets\Project Scripts\Parallaxing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Project Scripts\Pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuitGame">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Project Scripts\QuitGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="10.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

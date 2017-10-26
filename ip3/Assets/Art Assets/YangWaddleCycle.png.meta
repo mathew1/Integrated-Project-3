@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: c431100daa2dae744960a13652d2cf1f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YangWaddleCycle_0
+    21300002: YangWaddleCycle_1
+    21300004: YangWaddleCycle_2
+    21300006: YangWaddleCycle_3
+    21300008: YangWaddleCycle_4
+    21300010: YangWaddleCycle_5
+    21300012: YangWaddleCycle_6
+    21300014: YangWaddleCycle_7
+    21300016: YangWaddleCycle_9
+    21300018: YangWaddleCycle_9
+    21300020: YangWaddleCycle_10
+    21300022: YangWaddleCycle_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: YangWaddleCycle_0
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 37
+        width: 314
+        height: 642
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 37
+        width: 306
+        height: 631
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 37
+        width: 306
+        height: 631
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_3
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 33
+        width: 306
+        height: 639
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_4
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 37
+        width: 310
+        height: 635
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 37
+        width: 306
+        height: 631
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_6
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 31
+        width: 331
+        height: 649
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_7
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 42
+        width: 315
+        height: 638
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_9
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 37
+        width: 299
+        height: 631
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YangWaddleCycle_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 35
+        width: 327
+        height: 653
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

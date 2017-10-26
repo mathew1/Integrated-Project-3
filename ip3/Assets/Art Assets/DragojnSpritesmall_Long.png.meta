@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 96ed70482210eed4ca46cab377936218
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DragojnSpritesmall_Long_0
+    21300002: DragojnSpritesmall_Long_1
+    21300004: DragojnSpritesmall_Long_2
+    21300006: DragojnSpritesmall_Long_3
+    21300008: DragojnSpritesmall_Long_4
+    21300010: DragojnSpritesmall_Long_5
+    21300012: DragojnSpritesmall_Long_6
+    21300014: DragojnSpritesmall_Long_7
+    21300016: DragojnSpritesmall_Long_8
+    21300018: DragojnSpritesmall_Long_9
+    21300020: DragojnSpritesmall_Long_10
+    21300022: DragojnSpritesmall_Long_11
+    21300024: DragojnSpritesmall_Long_12
+    21300026: DragojnSpritesmall_Long_13
+    21300028: DragojnSpritesmall_Long_14
+    21300030: DragojnSpritesmall_Long_15
+    21300032: DragojnSpritesmall_Long_16
+    21300034: DragojnSpritesmall_Long_17
+    21300036: DragojnSpritesmall_Long_18
+    21300038: DragojnSpritesmall_Long_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 460
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 26
+        width: 500
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 26
+        width: 453
+        height: 376
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 26
+        width: 475
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 26
+        width: 519
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 26
+        width: 500
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 26
+        width: 562
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 26
+        width: 551
+        height: 370
+      alignment: 9
+      pivot: {x: .558555663, y: .499999911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 24
+        width: 525
+        height: 370
+      alignment: 9
+      pivot: {x: .564869821, y: .49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 5257
+        y: 26
+        width: 542
+        height: 370
+      alignment: 9
+      pivot: {x: .549606502, y: .499999911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 5900
+        y: 26
+        width: 484
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 26
+        width: 550
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

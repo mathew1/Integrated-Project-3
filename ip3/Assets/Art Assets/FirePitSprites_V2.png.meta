@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: a132922528789e14dad42309702a48d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FirePitSprites_V2_0
+    21300002: FirePitSprites_V2_1
+    21300004: FirePitSprites_V2_2
+    21300006: FirePitSprites_V2_3
+    21300008: FirePitSprites_V2_4
+    21300010: FirePitSprites_V2_5
+    21300012: FirePitSprites_V2_6
+    21300014: FirePitSprites_V2_7
+    21300016: FirePitSprites_V2_8
+    21300018: FirePitSprites_V2_9
+    21300020: FirePitSprites_V2_10
+    21300022: FirePitSprites_V2_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 560
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1
+        width: 560
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1
+        width: 560
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1
+        width: 560
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1
+        width: 560
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
